@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mashukur Rahman</h1>
 <h3 align="center">An aspiring full stack developer from Bangladesh</h3>
 
-* 🔭 I currently wri8te software at [Mi-C3 🦢](https://infotech.blandan.com)
+* 🔭 I currently write software at [Blandan Infotech](https://infotech.blandan.com)
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **any full stack web development project**
