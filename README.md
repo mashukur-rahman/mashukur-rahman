@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mashukur Rahman</h1>
-<h3 align="center">An aspiring full stack developer from Bangladesh</h3>
+<h3 align="center">A full stack developer from Bangladesh</h3>
 
 - 💻 I currently write software at [Blandan Infotech](https://infotech.blandan.com)
 - 🌱 I’m currently learning **React**
