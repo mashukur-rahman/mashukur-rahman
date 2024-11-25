@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashukur-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="mashukur-rahman" /> </p>
 
-- 🌱 I’m currently learning: **Blockchain**
+- 🌱 I’m currently learning: **Machine Learning**
 
 - 💬 Ask me about: **JavaScript, React, Node.js,Express.js, MySQL, MongoDB**
 
